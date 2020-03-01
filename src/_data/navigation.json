@@ -1,18 +1,13 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "Koti",
       "url": "/",
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/hankchizljaw",
+      "text": "Ohjelmointiosuus 1",
+      "url": "https://people.uta.fi/~op98563/blog/post-2/",
       "external": true
     }
   ]
