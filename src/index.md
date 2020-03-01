@@ -1,10 +1,12 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
-archiveButtonText: See all posts
+title: Journalismi ja ohjelmointi -työpajan kurssisivut
+postsHeading: Viimeisimmät julkaistut artikkelit
+archiveButtonText: Katso muut artikkelit (ei vielä julkaistu)
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+Tämä on Tampereen yliopiston ensimmäinen [data-lähtöinen journalistiikan teemakurssi](people.uta.fi/~op98563/). Tälle sivulle kerätään tärkeät linkit ja ohjeet tehtäviin. 
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Ylläpito, Olli Pietiläinen, ollip(at)outlook.com
+
+Journalismi ja ohjelmointi -työpaja
