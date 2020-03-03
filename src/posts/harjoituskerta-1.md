@@ -9,6 +9,6 @@ Harjoitusten osoite:
 
 [Harjoitus 1](https://people.uta.fi/~op98563/blog/post-5/index.html)
 
-oheismateriaali: [valokuvat](https://people.uta.fi/~op98563/valokuva_esittely)
+oheismateriaali: [valokuvat](https://people.uta.fi/~op98563/blog/valokuva_esittely)
 
 [Harjoitustehtävä 2.](https://people.uta.fi/~op98563/post-6/index.html)
