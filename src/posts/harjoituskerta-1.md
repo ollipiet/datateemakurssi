@@ -7,6 +7,8 @@ tags:
 ---
 Harjoitusten osoite:
 
+etuharjoitus (linkki opettajalla)
+
 [Harjoitus 1](https://people.uta.fi/~op98563/blog/post-5/index.html)
 
 oheismateriaali: [valokuvat](https://people.uta.fi/~op98563/blog/valokuva_esittely)
