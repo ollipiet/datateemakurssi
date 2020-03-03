@@ -11,4 +11,4 @@ Harjoitusten osoite:
 
 oheismateriaali: [valokuvat](https://people.uta.fi/~op98563/blog/valokuva_esittely)
 
-[Harjoitustehtävä 2.](https://people.uta.fi/~op98563/post-6/index.html)
+[Harjoitustehtävä 2.](https://people.uta.fi/~op98563/blog/post-6/index.html)
