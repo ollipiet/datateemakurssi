@@ -9,15 +9,13 @@ Tälle sivulle voit palauttaa valmiit kotitehtävät. Kotitehtävien palautuksen
 
 [Kotitehtävät](https://people.uta.fi/~op98563/blog/post-6/) <-sivulla
 
-
-
 #### Kotitehtävien palautuksen ohje.
 
 Palauta kotitehtävät <b>tällä</b> sivulla olevalla lomakkeella. Palautus ei vaadi kirjautumista.
 
 Lisää alle kirjoittamasi koodi. Otsikoi koodisi tehtävän numerolla. Esimerkki: 
 
-1. 
+1.
 
 x = "tit"; \
 y = "...
@@ -38,6 +36,6 @@ ja niin edelleen.
 
 <textarea name="palautuskentta" rows="35" cols="40"> </textarea>
 
-<button type="submit">Lähetä tehtäväpalautus</button>
+<< osa valmisteilla , vielä ei voi lähettää. Kaavake valmis 5.3. perjantaina >> 
 
 </form>
