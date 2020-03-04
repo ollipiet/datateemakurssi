@@ -7,7 +7,7 @@ tags:
 ---
 Harjoitusten osoite:
 
-etuharjoitus ([johdatus)](https://people.uta.fi/~op98563/blog/post-3/code-2-exercises.html)
+etuharjoitus ([johdatus)](https://people.uta.fi/~op98563/blog/post-3/)
 
 [Harjoitus 1](https://people.uta.fi/~op98563/blog/post-5/index.html)
 
