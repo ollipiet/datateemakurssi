@@ -5,7 +5,9 @@ date: 2020-03-04T18:43:24.218Z
 tags:
   - kotitehtävät
 ---
-<form method=POST data-netlify="true">
+
+
+<form method="POST" data-netlify="true">
 				<p>
 					<label for="username">Nimesi palautukseen </label>
 					<input type="text" name="username" id="username">
