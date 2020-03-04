@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Tehtävä 1, kotitehtävän palautus'
+title: 'Tehtävä 1, kotitehtävän palautus (päivitetään)'
 date: 2020-03-04T18:43:24.218Z
 tags:
   - kotitehtävät
