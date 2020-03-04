@@ -5,6 +5,20 @@ date: 2020-03-04T18:43:24.218Z
 tags:
   - kotitehtävät
 ---
+Tälle sivulle voit palauttaa valmiit kotitehtävät. Kotitehtävien palautuksen deadline on keskiviikkona 10.3. kello 00.00 mennessä.
+
+[Kotitehtävät](https://people.uta.fi/~op98563/blog/post-6/) <-sivulla
+
+x = "tit"; y = "...
+
+#### Kotitehtävien palautuksen ohje. 
+
+Palauta kotitehtävät tällä sivulla olevalla lomakkeella. Palautus ei vaadi kirjautumista.
+
+Lisää alle kirjoittamasi koodi. Otsikoi koodisi tehtävän numerolla.
+
+esim. 1. 
+
 
 
 <form method="POST" data-netlify="true">
@@ -15,7 +29,7 @@ tags:
 
 <p>
 
-<label for="teksti">Tehtävien palautus </label> 
+<label for="teksti">Tehtävien palautus 1. (kolme tehtävää).</label> 
 
 <textarea name="palautuskentta" rows="35" cols="40"> </textarea>
 
