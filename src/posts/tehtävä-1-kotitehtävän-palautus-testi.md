@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Tehtävä 1, kotitehtävän palautus (päivitetään)'
+title: 'Tehtävä 1, kotitehtävän palautus (palautus auki)'
 date: 2020-03-04T18:43:24.218Z
 tags:
   - kotitehtävät
@@ -36,6 +36,6 @@ ja niin edelleen.
 
 <textarea name="palautuskentta" rows="35" cols="40"> </textarea>
 
-<< osa valmisteilla , vielä ei voi lähettää. Kaavake valmis 5.3. perjantaina >> 
+<button type="submit">Lähetä tehtävät</button>
 
 </form>
