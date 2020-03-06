@@ -26,7 +26,7 @@ ja niin edelleen.
 
 <form method="POST" data-netlify="true">
 				<p>
-					<label for="username">Nimesi palautukseen </label>
+					<label for="username">Nimesi palautukseen: </label>
 					<input type="text" name="username" id="username">
 				</p>
 
@@ -34,7 +34,7 @@ ja niin edelleen.
 
 <label for="teksti">Tehtävien palautus 1. (kolme tehtävää).</label> 
 
-<textarea name="palautuskentta" rows="35" cols="40"> </textarea>
+<textarea name="palautuskentta" rows="59" cols="50"> </textarea>
 
 <button type="submit">Lähetä tehtävät</button>
 
