@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Harjoitus 2
+title: Harjoitus 2 ja palautus
 date: 2020-03-12T05:48:20.105Z
 tags:
   - kotitehtävät
