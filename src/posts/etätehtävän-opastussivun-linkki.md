@@ -7,6 +7,10 @@ tags:
 ---
 sivu on täällä
 
-
-
 [ETÄPÄIVÄ VERKKO-OHJE ](https://people.uta.fi/~op98563/blog/post-9/Seven.html)
+
+
+
+Tehtävien palautus aukeaa tähän keskiviikkona. Tallenna tehtävästä 2. ja 6. lopputuloksesi , eli 1. kuvakaappaus sivusta ja 2. lopputuloksen data .csv-tietona. 
+
+Osana tehtävää kirjoita myös 300 merkin yhteenveto, mitä ongelmia tai mitä onnistumisia harjoitustehtävässäsi kohtasit.
