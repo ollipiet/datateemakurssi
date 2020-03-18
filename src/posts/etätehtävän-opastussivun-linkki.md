@@ -9,7 +9,7 @@ sivu on täällä
 
 [ETÄPÄIVÄ VERKKO-OHJE ](https://people.uta.fi/~op98563/blog/post-9/Seven.html)
 
-Tehtävien palautus aukeaa tähän keskiviikkona. Tallenna tehtävästä 2. ja 6. lopputuloksesi visualisointi .svg-tietona. SVG-tiedoston saa tallennettua, kun data on visualisoitu. (painike visualisoinnin oikeassa yläkulmassa). 
+Tehtävien palautus on avattu tähän alle keskiviikkona. Tallenna tehtävästä 2. ja 6. lopputuloksesi visualisointi .svg-tietona. SVG-tiedoston saa tallennettua, kun data on visualisoitu. (painike visualisoinnin oikeassa yläkulmassa). 
 
 \->Harjoituksessa 2 ja 6 tehdään visualisointi, joten tämä on vain lopputuloksen tallentamista jatkokäyttöä (palautusta) varten.
 
@@ -31,7 +31,6 @@ Palautuksen **deadline** on kaikille tehtäville 25.3. kello 12.00
 <label for="visualisation2"> Visualisointi tehtävän 6. lopusta</label>
 
 <input type="file" id="visualisation2">
-
 
 <label for="teksti">Avovastauskenttä - 300 merkkiä harjoituksen sujumisesta ja / tai haasteista.</label> 
 
