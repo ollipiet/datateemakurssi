@@ -36,6 +36,8 @@ Palautuksen **deadline** on kaikille tehtäville 25.3. kello 12.00
 
 <textarea name="avovastaus" rows="59" cols="50"> </textarea>
 
+</p>
+
 <button type="submit">Lähetä tehtävät</button>
 
 </form>
