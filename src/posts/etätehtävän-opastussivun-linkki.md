@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Etätehtävän opastussivun linkki
+title: Etätehtävän opastussivun linkki ja tehtävät (myös palautus)
 date: 2020-03-17T19:29:32.814Z
 tags:
   - Harjoituskurssin viimeinen harjoituskerta
