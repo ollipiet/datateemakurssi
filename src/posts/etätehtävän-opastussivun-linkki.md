@@ -5,7 +5,7 @@ date: 2020-03-17T19:29:32.814Z
 tags:
   - Harjoituskurssin viimeinen harjoituskerta
 ---
-sivu on täällä
+Sivu on täällä:
 
 [ETÄPÄIVÄ VERKKO-OHJE ](https://people.uta.fi/~op98563/blog/post-9/Seven.html)
 
